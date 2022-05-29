@@ -1,0 +1,10 @@
+instance_count=1
+Ami= "ami-0ab60944656ce8742"
+generic_tags = {
+    Name = "Httpd server"
+    environment = "dev-Httpd"
+    department = "Server"
+    sponsor = "Ekerin"
+    contact = "o. jane"
+    Node_type = "Httpd server"
+}
